@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Abc
+class Abc 
 {
     Scanner sc= new Scanner(System.in);
     private int a,b,c,d,e,f,g,h,i,ac_bal=21000,atm_amount=100000,pin=1234,pin1;
